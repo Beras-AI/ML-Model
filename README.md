@@ -10,7 +10,8 @@ We have created a Machine Learning model that can classify the quality of rice i
 The dataset that we have created is then subjected to data cleaning to produce 1800 images After that, we distribute the cleaned data into 2 parts, namely 1440 images for training and 360 images for validation. Then, we categorize the data for each label, namely in the training data there are 480 images on each label and validation data there are 120 images on each label.  
 Here is the dataset link: https://drive.google.com/drive/folders/15ivrjRRt9wq649F0kd-vv66_xNVM5Ctq
 
-![Data seet](https://github.com/dianrizqisaputra/ricequality/assets/91761759/8b224f9e-b87d-431d-bfa1-6f89fa6f1438)
+![Data seet](https://github.com/dianrizqisaputra/ricequality/assets/91761759/c0029ced-b47e-4710-996e-85574bc13fd9)
+
 
 ## 3. Deployment Model
 Then we deployed model with two options, the first option is for on-device by saving the model into TensorFlow Lite and the second option is for the server by saving the model into the .h5 file format to be deployed using Docker and Google Cloud Run so as to produce an API that can be used online.  
