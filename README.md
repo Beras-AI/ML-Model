@@ -17,8 +17,7 @@ Here is the dataset link: https://drive.google.com/drive/folders/15ivrjRRt9wq649
 ![Data seet](https://github.com/dianrizqisaputra/ricequality/assets/91761759/a2e99a52-9aa9-440d-8a02-fbd4d076060a)
 
 ## 3. Deployment Model
-Then we deployed model with two options, the first option is for on-device by saving the model into TensorFlow Lite and the second option is for the server by saving the model into the .h5 file format to be deployed using Docker and Google Cloud Run so as to produce an API that can be used online.  
-Here is the TensorFlow Lite and API link: https://github.com/Beras-AI/ML-Model & https://ricequality-model-2q5w4z2mgq-et.a.run.app/docs  
+Then we deployed model with two options, the first option is for on-device by saving the model into TensorFlow Lite and the second option is for the server by saving the model into the .h5 file format to be deployed using Docker and Google Cloud Run so as to produce an API that can be used online. Here is the TensorFlow Lite and API link: https://github.com/Beras-AI/ML-Model & https://ricequality-model-2q5w4z2mgq-et.a.run.app/docs  
   
 ![Deploy](https://github.com/dianrizqisaputra/ricequality/assets/91761759/a8702751-559a-4391-9b30-345007e77933)
 
